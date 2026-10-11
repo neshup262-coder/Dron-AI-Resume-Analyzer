@@ -3,3 +3,4 @@ scikit-learn
 matplotlib
 PyPDF2
 nltk
+wordcloud
